@@ -20,3 +20,10 @@ https://en.wikipedia.org/wiki/PuTTY
 lsusb
 
 
+https://pyserial.readthedocs.io/en/latest/shortintro.html
+
+
+
+
+
+
